@@ -92,6 +92,13 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
   max-height: 40px;
 }
+@media (min-width: 1199px) {
+.button-photo{
+
+  padding-top:20%;
+}
+
+}
 
 @media (max-width: 992px) {
   #header {
