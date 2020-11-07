@@ -1,7 +1,7 @@
 .carousel-indicators{
 position: absolute;
 top: 0px;
-margin-right: 70%;
+margin-right: 80%;
 }
 body {
   font-family: 'Source Sans Pro', sans-serif;
@@ -367,7 +367,8 @@ filter: grayscale(100%);
 #hero .hero-logo {
   /* margin-bottom: 30px; */
   margin-left: 50%;
-  margin-top: 32%;
+  position: absolute;
+  top: 0px;
 
 }
 
