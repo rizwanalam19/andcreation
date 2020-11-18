@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top i:hover {
-  background: #61b959;
+  background: #0A0A0A;
   color: #fff;
 }
 @media (max-width: 575px) {
@@ -496,7 +496,7 @@ section {
   margin-bottom: 0;
 }
 .sunny{
-  font-size: 35px;
+font-size: 35px;
 color: #4b4a4b;
 font-weight: bold;
 font-family: 'Fjalla One', sans-serif;
@@ -511,11 +511,11 @@ height: 600px;
 
 }
 .sunny-content{
-
   color: #4b4a4b;
   font-weight: 400;
   font-family: 'Source Sans Pro', sans-serif;
 }
+
 
 /*--------------------------------------------------------------
 # Services
